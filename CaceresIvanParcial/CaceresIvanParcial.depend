@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1538695093 source:/home/alumno/Descargas/CaceresIvan/CaceresIvanParcial/biblioteca.c
+	<stdio_ext.h>
+	<stdlib.h>
+	"biblioteca.h"
+	<string.h>
+
+1538679320 /home/alumno/Descargas/CaceresIvan/CaceresIvanParcial/biblioteca.h
+
+1538699086 source:/home/alumno/Descargas/CaceresIvan/CaceresIvanParcial/cliente.c
+	<stdio_ext.h>
+	<stdlib.h>
+	"cliente.h"
+	"biblioteca.h"
+	<string.h>
+
+1538695236 /home/alumno/Descargas/CaceresIvan/CaceresIvanParcial/cliente.h
+	<stdio_ext.h>
+	<stdlib.h>
+	"biblioteca.h"
+	<string.h>
+
+1538695505 /home/alumno/Descargas/CaceresIvan/CaceresIvanParcial/employee.h
+	<stdio_ext.h>
+	<stdlib.h>
+	"employee.h"
+	"biblioteca.h"
+	<string.h>
+
+1538679320 source:/home/alumno/Descargas/CaceresIvan/CaceresIvanParcial/employee.c
+	<stdio_ext.h>
+	<stdlib.h>
+	"employee.h"
+	"biblioteca.h"
+	<string.h>
+
+1538698616 source:/home/alumno/Descargas/CaceresIvan/CaceresIvanParcial/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	"cliente.h"
+	"biblioteca.h"
+	<string.h>
+
+1538691774 source:/home/alumno/Descargas/CaceresIvan/CaceresIvanParcial/Maqueta.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+	"employee.h"
+
